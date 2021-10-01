@@ -10,5 +10,5 @@ phases:
       - echo Build completed successfully
 artifacts:
   files:
-    - target/wss*/*
+    - target/wss.war
   discard-paths: yes
